@@ -409,3 +409,56 @@ tecnológico, no colores llamativos ni disruptivos"):
   paleta.
 - Sin cambios en el verde de WhatsApp, el rojo de YouTube ni la banda
   de cookies (colores de terceros / estándar de familia).
+
+────────────────────────────────────────────────────────────
+ADAPTACIÓN A VILLALBATECH MANTENIMIENTO INFORMÁTICO EMPRESAS COLLADO
+VILLALBA (repositorio clonado a partir de RetiroTech)
+────────────────────────────────────────────────────────────
+
+MARCA Y TEXTOS:
+- "RetiroTech" → "VillalbaTech" en cabecera, pie de página, JSON-LD
+  (name) y mensaje prellenado de WhatsApp ("¡Hola VillalbaTech").
+- Title: "VillalbaTech Mantenimiento Informático Empresas Collado
+  Villalba" (texto exacto indicado por el cliente, sin "|"). Meta
+  description, og:title y og:description reescritos mencionando
+  Collado Villalba, Madrid.
+- H1 propio de 9 palabras exactas, distinto de los de los repos
+  hermanos: "Cuidamos cada detalle técnico para que tu empresa
+  crezca."
+- Fila "Zona": "Retiro, Madrid" → "Collado Villalba, Madrid".
+- FAQ "¿Trabajáis solo en Retiro?" → "¿Trabajáis solo en Collado
+  Villalba?", con la respuesta adaptada a "Collado Villalba y
+  alrededores" (municipio propio, no distrito de la capital, mismo
+  criterio que MajahondaTech y LasRozasTech).
+- Tarjeta de información de contacto: el h2 actualizado al título
+  exacto de esta web: "VillalbaTech Mantenimiento Informático Empresas
+  Collado Villalba" (se corrigió aparte, ya que el rebranding
+  automático solo cambiaba el nombre de marca y dejaba "| Mantenimiento
+  Informático en Retiro" sin tocar).
+- JSON-LD: description y areaServed actualizados a Collado Villalba,
+  Madrid.
+
+DOMINIO Y ENLACES:
+- canonical, og:url y JSON-LD "url" → https://mantenimientoinformaticocolladovillalba.es/
+  (dominio indicado directamente por el cliente, con https en vez del
+  http:// que se pasó).
+- sitemap.xml y robots.txt actualizados al nuevo dominio.
+- Enlace de Google Maps actualizado en las 4 ubicaciones del sitio a
+  https://maps.app.goo.gl/yCoeN6GZRfNsvzyv5, proporcionado por el
+  cliente.
+
+TELÉFONO Y WHATSAPP: sin cambios, mismo número compartido por toda la
+familia.
+
+COLOR (regla permanente de la subfamilia — siempre se cambia):
+- Nueva paleta oliva-lima vivo, primera de la subfamilia en la gama
+  amarillo-verdosa, distinta de las once anteriores:
+  --blue:#5b5fa8→#6b7a12, --indigo:#3d4f73→#465000,
+  --cyan:#8f93e0→#c8e05a. Combinado con el fondo azul marino da un
+  aire "terminal/circuito", bien saturado y con buen contraste.
+  Genuinamente distinta de todas las paletas anteriores (azules,
+  violetas, magenta, esmeralda, ámbar, vino).
+- Todos los tonos derivados (fondos de iconos claros, textos en color
+  sobre fondo oscuro, badges, bordes de hover, sombras de botones)
+  recalculados a la misma paleta, mismo contraste que antes.
+- Isotipo (assets/isotipo.svg) recoloreado a juego.
